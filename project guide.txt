@@ -1,0 +1,40 @@
+
+How to run the  Project ???
+
+##Credential for admin panel :
+
+Username: admin
+Password: Test@123
+
+##Credential for driver :
+
+Username: vams123
+Password: Test@123
+
+
+##Credential for user :
+
+
+register a new user 
+
+
+
+
+##How to run a project in new system
+
+1. Download the  zip file
+
+2. Extract the file and copy the folder
+
+3.Paste inside root directory(for xampp xampp/htdocs)
+
+4.Start Apache and mysql servers in xampp
+
+4.paste these link in any brower : http://localhost/WasteManagement2/
+
+
+
+
+
+
+
